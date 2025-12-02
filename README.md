@@ -3,7 +3,7 @@
 Doing every day of advent of code in a different language. 
 Hopefully I can last the whole time. Here are the languages in a randomized order:
 
-1. Typescript
+1. Typescript - [ DONE ]
 2. Elisp
 3. Elixir
 4. Nix
