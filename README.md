@@ -5,7 +5,7 @@ Here are the languages in a randomized order:
 
 1. Typescript - [ DONE ]
 2. Elisp - [ DONE ]
-3. Elixir
+3. Elixir - [ DONE ]
 4. Nix
 5. Pascal
 6. C
